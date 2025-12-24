@@ -1,0 +1,8 @@
+{
+  "name": "NexusRemote",
+  "description": "A global freelancing platform connecting elite talent with remote opportunities, featuring AI-powered job matching and proposal optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
